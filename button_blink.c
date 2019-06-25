@@ -79,19 +79,3 @@ void lowState(uint8_t button) {
   _delay_ms(20);
 
 }
-
-
-/*
-Set a bit
-
-BYTE |= (1<<i);
-
-Clear a bit
-
-BYTE &= ~(1<<i);
-
-Toogle a bit
-24hthuthuat
-
-BYTE ^= (1<<i);
-*/
